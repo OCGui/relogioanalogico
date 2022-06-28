@@ -1,4 +1,8 @@
 /* Layout */
+*{
+    background: rgb(246,232,215);
+    background: radial-gradient(circle, rgba(246,232,215,1) 35%, rgba(244,175,129,1) 45%, rgba(255,0,0,0.9752275910364145) 100%);}
+
 .main {
     display: flex;
     padding: 2em;
